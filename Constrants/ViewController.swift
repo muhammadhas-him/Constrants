@@ -19,6 +19,10 @@ class ViewController: UIViewController {
     {
         print("new changes.....")
     }
+    func newCommit()
+    {
+        print("new commit.....")
+    }
 
 
 }
