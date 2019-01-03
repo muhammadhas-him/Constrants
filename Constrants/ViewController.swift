@@ -10,9 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-      
+        print("Done...")
           print("New Git Work......")
     }
     func hello()
@@ -21,8 +22,11 @@ class ViewController: UIViewController {
     }
     func newCommit()
     {
+    
         print("new commit.....")
     }
+    
+   
 
 
 }
