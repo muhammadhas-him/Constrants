@@ -15,6 +15,10 @@ class ViewController: UIViewController {
       
           print("New Git Work......")
     }
+    func hello()
+    {
+        print("new changes.....")
+    }
 
 
 }
